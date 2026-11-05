@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Alejandro
 
-<!--
-**alejandrolcm/alejandrolcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Actualmente estoy aprendiendo programación y desarrollando mis habilidades con Python.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí
+- 📚 Estudiante de Bachillerato.
+- 🐍 Aprendiendo Python mediante ejercicios y proyectos prácticos.
+- 🧠 Interesado en programación, tecnología e inteligencia artificial.
+- 🎯 Mi objetivo es seguir aprendiendo y construir proyectos cada vez más completos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías
+- Python (en aprendizaje)
+- Git y GitHub (en aprendizaje)
+
+### 📂 Mis proyectos
+- [Prácticas de Python](https://github.com/alejandrolcm/practicas-python)
+
+---
+
+*Siempre aprendiendo y construyendo.*
